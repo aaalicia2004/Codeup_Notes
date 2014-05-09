@@ -7,13 +7,15 @@ Hello Codeup! This is a regular block of text.
 1. item 1
 1. item 2
 1. item 3
-1. item 
+1. item 4
+
 
 * First Item
 * Second Item
 * Third Item
 	* Sub Item a
 	* Sub Item b
+
 ---
 
 ```
